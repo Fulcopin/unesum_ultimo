@@ -1,0 +1,19 @@
+.research-project-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 24px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.research-project-form h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    color: #1890ff;
+}
+
+.input-field {
+    width: 100%;
+    max-width: 500px;
+}

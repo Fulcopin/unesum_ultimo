@@ -1,0 +1,79 @@
+<@_fa>true</@_fa>
+<link>
+    <@_fa>true</@_fa>
+    <@ref>self</@ref>
+    <@href>https://api.elsevier.com/content/abstract/scopus_id/85203558627</@href>
+</link>
+<link>
+    <@_fa>true</@_fa>
+    <@ref>author-affiliation</@ref>
+    <@href>https://api.elsevier.com/content/abstract/scopus_id/85203558627?field=author,affiliation</@href>
+</link>
+<link>
+    <@_fa>true</@_fa>
+    <@ref>scopus</@ref>
+    <@href>https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85203558627&amp;origin=inward</@href>
+</link>
+<link>
+    <@_fa>true</@_fa>
+    <@ref>scopus-citedby</@ref>
+    <@href>https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85203558627&amp;origin=inward</@href>
+</link>
+<link>
+    <@_fa>true</@_fa>
+    <@ref>full-text</@ref>
+    <@href>https://api.elsevier.com/content/article/eid/1-s2.0-S0212656724002191</@href>
+</link>
+<prism:url>https://api.elsevier.com/content/abstract/scopus_id/85203558627</prism:url>
+<dc:identifier>SCOPUS_ID:85203558627</dc:identifier>
+<eid>2-s2.0-85203558627</eid>
+<dc:title>From evidence to practice: The Disemination and Implementation Science in primary care</dc:title>
+<dc:creator>Martínez C.</dc:creator>
+<prism:publicationName>Atencion Primaria</prism:publicationName>
+<prism:issn>02126567</prism:issn>
+<prism:eIssn>15781275</prism:eIssn>
+<prism:volume>57</prism:volume>
+<prism:issueIdentifier>1</prism:issueIdentifier>
+<prism:pageRange/>
+<prism:coverDate>2025-01-01</prism:coverDate>
+<prism:coverDisplayDate>January 2025</prism:coverDisplayDate>
+<prism:doi>10.1016/j.aprim.2024.103077</prism:doi>
+<pii>S0212656724002191</pii>
+<citedby-count>0</citedby-count>
+<affiliation>
+    <@_fa>true</@_fa>
+    <affilname>Centro de Investigación Biomédica en Red de Enfermedades Respiratorias</affilname>
+    <affiliation-city>Madrid</affiliation-city>
+    <affiliation-country>Spain</affiliation-country>
+</affiliation>
+<affiliation>
+    <@_fa>true</@_fa>
+    <affilname>Institut d'Investigació Biomedica de Bellvitge</affilname>
+    <affiliation-city>Hospitalet de Llobregat</affiliation-city>
+    <affiliation-country>Spain</affiliation-country>
+</affiliation>
+<affiliation>
+    <@_fa>true</@_fa>
+    <affilname>University of California, San Francisco</affilname>
+    <affiliation-city>San Francisco</affiliation-city>
+    <affiliation-country>United States</affiliation-country>
+</affiliation>
+<affiliation>
+    <@_fa>true</@_fa>
+    <affilname>Institute Catala Oncologia</affilname>
+    <affiliation-city>Hospitalet de Llobregat</affiliation-city>
+    <affiliation-country>Spain</affiliation-country>
+</affiliation>
+<affiliation>
+    <@_fa>true</@_fa>
+    <affilname>Universitat de Barcelona</affilname>
+    <affiliation-city>Barcelona</affiliation-city>
+    <affiliation-country>Spain</affiliation-country>
+</affiliation>
+<prism:aggregationType>Journal</prism:aggregationType>
+<subtype>ar</subtype>
+<subtypeDescription>Article</subtypeDescription>
+<article-number>103077</article-number>
+<source-id>28018</source-id>
+<openaccess>1</openaccess>
+<openaccessFlag>true</openaccessFlag>
