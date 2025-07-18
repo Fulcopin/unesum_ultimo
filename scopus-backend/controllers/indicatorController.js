@@ -1,4 +1,4 @@
-const Indicator = require('../models/Indicator');
+const Indicator = require('../models/indicator');
 const ModeratorRating = require('../models/moderatorRating');
 
 // Obtener todos los indicadores
