@@ -1,6 +1,6 @@
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/db');
-const ResearchProject = require('./researchProject');
+const ResearchProject = require('./researchproject');
 const Indicator = require('./Indicator');
 const User = require('./User');
 

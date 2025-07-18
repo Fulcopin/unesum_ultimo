@@ -1,7 +1,7 @@
 // models/ProjectImage.js
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/db');
-const ResearchProject = require('./researchProject');
+const ResearchProject = require('./researchproject');
 
 const ProjectImage = sequelize.define('ProjectImage', {
     path: {

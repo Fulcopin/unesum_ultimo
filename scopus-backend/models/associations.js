@@ -1,4 +1,4 @@
-const ResearchProject = require('./researchProject'); // Asegúrate de que el nombre del archivo sea correcto
+const ResearchProject = require('./researchproject'); // Asegúrate de que el nombre del archivo sea correcto
 const User = require('./User'); // Asegúrate de que el nombre del archivo sea correcto
 const Indicator = require('./Indicator');
 const ModeratorRating = require('./moderatorRating');

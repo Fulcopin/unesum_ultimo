@@ -1,5 +1,5 @@
 const sequelize = require('../config/db');
-const ResearchProject = require('./researchProject');
+const ResearchProject = require('./researchproject');
 const User = require('./User');
 
 // Importar asociaciones
