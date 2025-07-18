@@ -1,7 +1,7 @@
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/db');
 const ResearchProject = require('./researchproject');
-const Indicator = require('./Indicator');
+const Indicator = require('./indicator');
 const User = require('./User');
 
 const ModeratorRating = sequelize.define('ModeratorRating', {

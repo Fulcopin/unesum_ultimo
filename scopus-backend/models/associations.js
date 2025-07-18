@@ -1,6 +1,6 @@
 const ResearchProject = require('./researchproject'); // Asegúrate de que el nombre del archivo sea correcto
 const User = require('./User'); // Asegúrate de que el nombre del archivo sea correcto
-const Indicator = require('./Indicator');
+const Indicator = require('./indicator');
 const ModeratorRating = require('./moderatorRating');
 
 // Existing associations
