@@ -1,5 +1,5 @@
 // filepath: /c:/Users/fupifigu/Videos/test_unesum/unesum-app-final/scopus-backend/controllers/researchProjectController.js
-const ResearchProject = require('../models/researchProject');
+const ResearchProject = require('../models/researchproject');
 const ProjectImage = require('../models/ProjectImage');
 const Document = require('../models/Document');
 const User = require('../models/User');

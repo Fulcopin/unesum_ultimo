@@ -1,5 +1,5 @@
 const Document = require('../models/Document');
-const ResearchProject = require('../models/researchProject');
+const ResearchProject = require('../models/researchproject');
 const ModeratorRating = require('../models/moderatorRating');
 const Indicator = require('../models/Indicator');
 const path = require('path');
